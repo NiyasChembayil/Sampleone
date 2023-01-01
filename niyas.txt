@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 my name is niyas am comming from alathoorpadi
 alhamdulilla
+=======
+entha mwonusee sughalle
+>>>>>>> featuer
